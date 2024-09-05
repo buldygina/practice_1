@@ -1,16 +1,4 @@
-# practice_1
+Практическая работа 1 по ПКС. Булдыгина Елизавета Константиновна
+![image](https://github.com/user-attachments/assets/8fc8ba4e-a765-4341-ada0-e45ec9b2a000)
+![image](https://github.com/user-attachments/assets/b24a02d7-ff2b-481c-8a6d-b39e25428fa5)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
